@@ -1,4 +1,4 @@
 # projects
 This is my first project
 <br>
-Author - Abhiuday
+Author - Abhiuday Chauhan
