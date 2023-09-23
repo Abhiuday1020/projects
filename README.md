@@ -1,4 +1,4 @@
 # projects
-This is my first project
+Simple linear Regression projects 
 <br>
 Author - Abhiuday Chauhan
